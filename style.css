@@ -46,7 +46,7 @@ margin-top: 15vh;
 }
 
 body{
-    background-color: #14b2f0;
+    background-color: #051b1a;
     text-align: center;
     font-family: 'Edu TAS Beginner', cursive;
     font-size: xx-large;
@@ -103,6 +103,9 @@ body{
 .social i:hover{
     transform: translate(-10px);
 }
+
+    
+
 
     
 
